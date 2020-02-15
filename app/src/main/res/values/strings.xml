@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountdownTimeHandlerDemo</string>
+    <string name="max_time">10</string>
+</resources>
